@@ -1,0 +1,9 @@
+c:\users\sterthangy\documents\visual studio 2015\Projects\Sprite Analyzer\bin\Debug\Sprite Analyzer.exe.config
+c:\users\sterthangy\documents\visual studio 2015\Projects\Sprite Analyzer\bin\Debug\Sprite Analyzer.exe
+c:\users\sterthangy\documents\visual studio 2015\Projects\Sprite Analyzer\bin\Debug\Sprite Analyzer.pdb
+c:\users\sterthangy\documents\visual studio 2015\Projects\Sprite Analyzer\obj\Debug\Sprite Analyzer UI.csprojResolveAssemblyReference.cache
+c:\users\sterthangy\documents\visual studio 2015\Projects\Sprite Analyzer\obj\Debug\Sprite_Analyzer.Properties.Resources.resources
+c:\users\sterthangy\documents\visual studio 2015\Projects\Sprite Analyzer\obj\Debug\Sprite Analyzer UI.csproj.GenerateResource.Cache
+c:\users\sterthangy\documents\visual studio 2015\Projects\Sprite Analyzer\obj\Debug\Sprite Analyzer.exe
+c:\users\sterthangy\documents\visual studio 2015\Projects\Sprite Analyzer\obj\Debug\Sprite Analyzer.pdb
+C:\Users\SterThangy\documents\visual studio 2015\Projects\Sprite Analyzer\obj\Debug\Sprite_Analyzer.StartupView.resources

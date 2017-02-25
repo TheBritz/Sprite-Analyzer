@@ -1,0 +1,8 @@
+c:\users\sterthangy\documents\visual studio 2015\Projects\Sprite Analyzer Process\bin\Debug\Sprite Analyzer Process.exe.config
+c:\users\sterthangy\documents\visual studio 2015\Projects\Sprite Analyzer Process\bin\Debug\Sprite Analyzer Process.exe
+c:\users\sterthangy\documents\visual studio 2015\Projects\Sprite Analyzer Process\bin\Debug\Sprite Analyzer Process.pdb
+c:\users\sterthangy\documents\visual studio 2015\Projects\Sprite Analyzer Process\bin\Debug\Newtonsoft.Json.dll
+c:\users\sterthangy\documents\visual studio 2015\Projects\Sprite Analyzer Process\bin\Debug\Newtonsoft.Json.xml
+c:\users\sterthangy\documents\visual studio 2015\Projects\Sprite Analyzer Process\obj\Debug\Sprite Analyzer Process.csprojResolveAssemblyReference.cache
+c:\users\sterthangy\documents\visual studio 2015\Projects\Sprite Analyzer Process\obj\Debug\Sprite Analyzer Process.exe
+c:\users\sterthangy\documents\visual studio 2015\Projects\Sprite Analyzer Process\obj\Debug\Sprite Analyzer Process.pdb

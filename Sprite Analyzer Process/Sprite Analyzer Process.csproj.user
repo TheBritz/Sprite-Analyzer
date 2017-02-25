@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>"C:\Users\SterThangy\Pictures\images"  "C:\Users\SterThangy\Pictures\Test Data" /keyword=Handholds /regex=weapon%2a -Primary=FF0000 -Secondary=0000FF</StartArguments>
+  </PropertyGroup>
+</Project>

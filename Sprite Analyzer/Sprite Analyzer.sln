@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprite Analyzer UI", "Sprite Analyzer UI.csproj", "{339B8D30-125D-450C-85A2-A5B4B3F8E2CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprite Analyzer Process", "..\Sprite Analyzer Process\Sprite Analyzer Process.csproj", "{583C9F2D-083B-423E-A9B4-819F252EA65A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpriteAnalyzerInterfaces", "SpiteAnalyzerInterfaces\SpriteAnalyzerInterfaces.csproj", "{84FEED14-064A-4C3E-9CD8-A46C99415A50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpriteCollector.GameMakerProject", "SpriteCollector.GameMakerProject\SpriteCollector.GameMakerProject.csproj", "{9EA911B4-0224-4DCD-B9A4-C9F3683CAEFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{339B8D30-125D-450C-85A2-A5B4B3F8E2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{339B8D30-125D-450C-85A2-A5B4B3F8E2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{339B8D30-125D-450C-85A2-A5B4B3F8E2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{339B8D30-125D-450C-85A2-A5B4B3F8E2CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{583C9F2D-083B-423E-A9B4-819F252EA65A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583C9F2D-083B-423E-A9B4-819F252EA65A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583C9F2D-083B-423E-A9B4-819F252EA65A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583C9F2D-083B-423E-A9B4-819F252EA65A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84FEED14-064A-4C3E-9CD8-A46C99415A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84FEED14-064A-4C3E-9CD8-A46C99415A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84FEED14-064A-4C3E-9CD8-A46C99415A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84FEED14-064A-4C3E-9CD8-A46C99415A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EA911B4-0224-4DCD-B9A4-C9F3683CAEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA911B4-0224-4DCD-B9A4-C9F3683CAEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA911B4-0224-4DCD-B9A4-C9F3683CAEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA911B4-0224-4DCD-B9A4-C9F3683CAEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
